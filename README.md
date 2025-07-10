@@ -31,9 +31,8 @@ git clone https://github.com/BIKRAM2725/amazon-clone/
 cd amazon-clone
 open index.html
 
-👨‍🎓 Author
-Bikram Ghosh
-📧 ghoshbikram2725@gmail.com
-
+**👨‍💻 Bikram Ghosh**  
+📚 B.E. Computer Engineering, Savitribai Phule Pune University  
+📧 [ghoshbikram2725@gmail.com](mailto:ghoshbikram2725@gmail.com)  
 
 
